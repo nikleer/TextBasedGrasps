@@ -1,0 +1,401 @@
+﻿Type,GraspType,Object,Reponses,Instruction
+Hold,Lateral,Acorn,1,How would you hold an acorn?
+Hold,MediumWrap,Acorn,4,How would you hold an acorn?
+Hold,Tripod,Acorn,15,How would you hold an acorn?
+Hold,Writing,Acorn,0,How would you hold an acorn?
+Hold,Lateral,Apple,1,How would you hold an apple?
+Hold,MediumWrap,Apple,10,How would you hold an apple?
+Hold,Tripod,Apple,6,How would you hold an apple?
+Hold,Writing,Apple,3,How would you hold an apple?
+Hold,Lateral,Apricot,0,How would you hold an apricot?
+Hold,MediumWrap,Apricot,10,How would you hold an apricot?
+Hold,Tripod,Apricot,10,How would you hold an apricot?
+Hold,Writing,Apricot,0,How would you hold an apricot?
+Hold,Lateral,Avocado,1,How would you hold an avocado?
+Hold,MediumWrap,Avocado,10,How would you hold an avocado?
+Hold,Tripod,Avocado,8,How would you hold an avocado?
+Hold,Writing,Avocado,0,How would you hold an avocado?
+Hold,Lateral,Ballpoint pen,1,How would you hold a ballpoint pen?
+Hold,MediumWrap,Ballpoint pen,0,How would you hold a ballpoint pen?
+Hold,Tripod,Ballpoint pen,1,How would you hold a ballpoint pen?
+Hold,Writing,Ballpoint pen,18,How would you hold a ballpoint pen?
+Hold,Lateral,Banana,2,How would you hold a banana?
+Hold,MediumWrap,Banana,14,How would you hold a banana?
+Hold,Tripod,Banana,1,How would you hold a banana?
+Hold,Writing,Banana,3,How would you hold a banana?
+Hold,Lateral,Banknote,13,How would you hold a banknote?
+Hold,MediumWrap,Banknote,1,How would you hold a banknote?
+Hold,Tripod,Banknote,1,How would you hold a banknote?
+Hold,Writing,Banknote,5,How would you hold a banknote?
+Hold,Lateral,Barrette,3,How would you hold a barrette?
+Hold,MediumWrap,Barrette,0,How would you hold a barrette?
+Hold,Tripod,Barrette,15,How would you hold a barrette?
+Hold,Writing,Barrette,2,How would you hold a barrette?
+Hold,Lateral,Battery,0,How would you hold a battery?
+Hold,MediumWrap,Battery,4,How would you hold a battery?
+Hold,Tripod,Battery,9,How would you hold a battery?
+Hold,Writing,Battery,6,How would you hold a battery?
+Hold,Lateral,Bead,1,How would you hold a bead?
+Hold,MediumWrap,Bead,0,How would you hold a bead?
+Hold,Tripod,Bead,16,How would you hold a bead?
+Hold,Writing,Bead,3,How would you hold a bead?
+Hold,Lateral,Beer bottle,2,How would you hold a beer bottle?
+Hold,MediumWrap,Beer bottle,18,How would you hold a beer bottle?
+Hold,Tripod,Beer bottle,0,How would you hold a beer bottle?
+Hold,Writing,Beer bottle,0,How would you hold a beer bottle?
+Hold,Lateral,Billiard ball,2,How would you hold a billiard ball?
+Hold,MediumWrap,Billiard ball,8,How would you hold a billiard ball?
+Hold,Tripod,Billiard ball,8,How would you hold a billiard ball?
+Hold,Writing,Billiard ball,2,How would you hold a billiard ball?
+Hold,Lateral,Book,17,How would you hold a book?
+Hold,MediumWrap,Book,2,How would you hold a book?
+Hold,Tripod,Book,1,How would you hold a book?
+Hold,Writing,Book,0,How would you hold a book?
+Hold,Lateral,Bookmark,6,How would you hold a bookmark?
+Hold,MediumWrap,Bookmark,0,How would you hold a bookmark?
+Hold,Tripod,Bookmark,8,How would you hold a bookmark?
+Hold,Writing,Bookmark,6,How would you hold a bookmark?
+Hold,Lateral,Bottle,0,How would you hold a bottle?
+Hold,MediumWrap,Bottle,17,How would you hold a bottle?
+Hold,Tripod,Bottle,0,How would you hold a bottle?
+Hold,Writing,Bottle,3,How would you hold a bottle?
+Hold,Lateral,Bowl,10,How would you hold a bowl?
+Hold,MediumWrap,Bowl,2,How would you hold a bowl?
+Hold,Tripod,Bowl,6,How would you hold a bowl?
+Hold,Writing,Bowl,2,How would you hold a bowl?
+Hold,Lateral,Box,11,How would you hold a box?
+Hold,MediumWrap,Box,4,How would you hold a box?
+Hold,Tripod,Box,3,How would you hold a box?
+Hold,Writing,Box,2,How would you hold a box?
+Hold,Lateral,Bun,6,How would you hold a bun?
+Hold,MediumWrap,Bun,4,How would you hold a bun?
+Hold,Tripod,Bun,7,How would you hold a bun?
+Hold,Writing,Bun,3,How would you hold a bun?
+Hold,Lateral,Candle,1,How would you hold a candle?
+Hold,MediumWrap,Candle,19,How would you hold a candle?
+Hold,Tripod,Candle,0,How would you hold a candle?
+Hold,Writing,Candle,0,How would you hold a candle?
+Hold,Lateral,Chalice,2,How would you hold a chalice?
+Hold,MediumWrap,Chalice,15,How would you hold a chalice?
+Hold,Tripod,Chalice,1,How would you hold a chalice?
+Hold,Writing,Chalice,2,How would you hold a chalice?
+Hold,Lateral,Chalk,1,How would you hold chalk?
+Hold,MediumWrap,Chalk,0,How would you hold chalk?
+Hold,Tripod,Chalk,4,How would you hold chalk?
+Hold,Writing,Chalk,15,How would you hold chalk?
+Hold,Lateral,Chess piece,0,How would you hold a chess piece?
+Hold,MediumWrap,Chess piece,1,How would you hold a chess piece?
+Hold,Tripod,Chess piece,17,How would you hold a chess piece?
+Hold,Writing,Chess piece,2,How would you hold a chess piece?
+Hold,Lateral,Chocolate bar,15,How would you hold a chocolate bar?
+Hold,MediumWrap,Chocolate bar,0,How would you hold a chocolate bar?
+Hold,Tripod,Chocolate bar,4,How would you hold a chocolate bar?
+Hold,Writing,Chocolate bar,1,How would you hold a chocolate bar?
+Hold,Lateral,Cigarette,1,How would you hold a cigarette?
+Hold,MediumWrap,Cigarette,0,How would you hold a cigarette?
+Hold,Tripod,Cigarette,1,How would you hold a cigarette?
+Hold,Writing,Cigarette,18,How would you hold a cigarette?
+Hold,Lateral,Clementine,1,How would you hold a clementine?
+Hold,MediumWrap,Clementine,13,How would you hold a clementine?
+Hold,Tripod,Clementine,6,How would you hold a clementine?
+Hold,Writing,Clementine,0,How would you hold a clementine?
+Hold,Lateral,Coin,7,How would you hold a coin?
+Hold,MediumWrap,Coin,0,How would you hold a coin?
+Hold,Tripod,Coin,9,How would you hold a coin?
+Hold,Writing,Coin,4,How would you hold a coin?
+Hold,Lateral,Comb,12,How would you hold a comb?
+Hold,MediumWrap,Comb,1,How would you hold a comb?
+Hold,Tripod,Comb,1,How would you hold a comb?
+Hold,Writing,Comb,6,How would you hold a comb?
+Hold,Lateral,Compact disk,16,How would you hold a compact disk?
+Hold,MediumWrap,Compact disk,0,How would you hold a compact disk?
+Hold,Tripod,Compact disk,1,How would you hold a compact disk?
+Hold,Writing,Compact disk,3,How would you hold a compact disk?
+Hold,Lateral,Credit card,17,How would you hold a credit card?
+Hold,MediumWrap,Credit card,0,How would you hold a credit card?
+Hold,Tripod,Credit card,0,How would you hold a credit card?
+Hold,Writing,Credit card,3,How would you hold a credit card?
+Hold,Lateral,Cucumber,0,How would you hold a cucumber?
+Hold,MediumWrap,Cucumber,16,How would you hold a cucumber?
+Hold,Tripod,Cucumber,2,How would you hold a cucumber?
+Hold,Writing,Cucumber,2,How would you hold a cucumber?
+Hold,Lateral,Cup,1,How would you hold a cup?
+Hold,MediumWrap,Cup,16,How would you hold a cup?
+Hold,Tripod,Cup,1,How would you hold a cup?
+Hold,Writing,Cup,2,How would you hold a cup?
+Hold,Lateral,Dice,1,How would you hold a dice?
+Hold,MediumWrap,Dice,2,How would you hold a dice?
+Hold,Tripod,Dice,15,How would you hold a dice?
+Hold,Writing,Dice,2,How would you hold a dice?
+Hold,Lateral,Donut,9,How would you hold a donut?
+Hold,MediumWrap,Donut,1,How would you hold a donut?
+Hold,Tripod,Donut,9,How would you hold a donut?
+Hold,Writing,Donut,1,How would you hold a donut?
+Hold,Lateral,Earring,0,How would you hold an earring?
+Hold,MediumWrap,Earring,0,How would you hold an earring?
+Hold,Tripod,Earring,14,How would you hold an earring?
+Hold,Writing,Earring,6,How would you hold an earring?
+Hold,Lateral,Egg,1,How would you hold an egg?
+Hold,MediumWrap,Egg,2,How would you hold an egg?
+Hold,Tripod,Egg,16,How would you hold an egg?
+Hold,Writing,Egg,1,How would you hold an egg?
+Hold,Lateral,Envelope,15,How would you hold an envelope?
+Hold,MediumWrap,Envelope,0,How would you hold an envelope?
+Hold,Tripod,Envelope,1,How would you hold an envelope?
+Hold,Writing,Envelope,4,How would you hold an envelope?
+Hold,Lateral,Flashlight,1,How would you hold a flashlight?
+Hold,MediumWrap,Flashlight,17,How would you hold a flashlight?
+Hold,Tripod,Flashlight,1,How would you hold a flashlight?
+Hold,Writing,Flashlight,0,How would you hold a flashlight?
+Hold,Lateral,Flask,2,How would you hold a flask?
+Hold,MediumWrap,Flask,13,How would you hold a flask?
+Hold,Tripod,Flask,3,How would you hold a flask?
+Hold,Writing,Flask,2,How would you hold a flask?
+Hold,Lateral,Fork,4,How would you hold a fork?
+Hold,MediumWrap,Fork,1,How would you hold a fork?
+Hold,Tripod,Fork,1,How would you hold a fork?
+Hold,Writing,Fork,14,How would you hold a fork?
+Hold,Lateral,Fountain pen,1,How would you hold a fountain pen?
+Hold,MediumWrap,Fountain pen,1,How would you hold a fountain pen?
+Hold,Tripod,Fountain pen,1,How would you hold a fountain pen?
+Hold,Writing,Fountain pen,16,How would you hold a fountain pen?
+Hold,Lateral,Frisbee,18,How would you hold a frisbee?
+Hold,MediumWrap,Frisbee,0,How would you hold a frisbee?
+Hold,Tripod,Frisbee,2,How would you hold a frisbee?
+Hold,Writing,Frisbee,0,How would you hold a frisbee?
+Hold,Lateral,Gel pen,0,How would you hold a gel pen?
+Hold,MediumWrap,Gel pen,0,How would you hold a gel pen?
+Hold,Tripod,Gel pen,1,How would you hold a gel pen?
+Hold,Writing,Gel pen,19,How would you hold a gel pen?
+Hold,Lateral,Glasses,3,How would you hold glasses?
+Hold,MediumWrap,Glasses,0,How would you hold glasses?
+Hold,Tripod,Glasses,9,How would you hold glasses?
+Hold,Writing,Glasses,8,How would you hold glasses?
+Hold,Lateral,Glue stick,1,How would you hold a glue stick?
+Hold,MediumWrap,Glue stick,11,How would you hold a glue stick?
+Hold,Tripod,Glue stick,4,How would you hold a glue stick?
+Hold,Writing,Glue stick,4,How would you hold a glue stick?
+Hold,Lateral,Golf ball,3,How would you hold a golf ball?
+Hold,MediumWrap,Golf ball,7,How would you hold a golf ball?
+Hold,Tripod,Golf ball,10,How would you hold a golf ball?
+Hold,Writing,Golf ball,0,How would you hold a golf ball?
+Hold,Lateral,Hairbrush,9,How would you hold a hairbrush?
+Hold,MediumWrap,Hairbrush,7,How would you hold a hairbrush?
+Hold,Tripod,Hairbrush,2,How would you hold a hairbrush?
+Hold,Writing,Hairbrush,2,How would you hold a hairbrush?
+Hold,Lateral,Hammer,4,How would you hold a hammer?
+Hold,MediumWrap,Hammer,13,How would you hold a hammer?
+Hold,Tripod,Hammer,2,How would you hold a hammer?
+Hold,Writing,Hammer,1,How would you hold a hammer?
+Hold,Lateral,Handfan,13,How would you hold a handfan?
+Hold,MediumWrap,Handfan,0,How would you hold a handfan?
+Hold,Tripod,Handfan,3,How would you hold a handfan?
+Hold,Writing,Handfan,4,How would you hold a handfan?
+Hold,Lateral,Jar,1,How would you hold a jar?
+Hold,MediumWrap,Jar,18,How would you hold a jar?
+Hold,Tripod,Jar,0,How would you hold a jar?
+Hold,Writing,Jar,1,How would you hold a jar?
+Hold,Lateral,Jug,6,How would you hold a jug?
+Hold,MediumWrap,Jug,11,How would you hold a jug?
+Hold,Tripod,Jug,1,How would you hold a jug?
+Hold,Writing,Jug,2,How would you hold a jug?
+Hold,Lateral,Key,12,How would you hold a key?
+Hold,MediumWrap,Key,0,How would you hold a key?
+Hold,Tripod,Key,5,How would you hold a key?
+Hold,Writing,Key,2,How would you hold a key?
+Hold,Lateral,Kiwifruit,2,How would you hold a kiwifruit?
+Hold,MediumWrap,Kiwifruit,3,How would you hold a kiwifruit?
+Hold,Tripod,Kiwifruit,13,How would you hold a kiwifruit?
+Hold,Writing,Kiwifruit,2,How would you hold a kiwifruit?
+Hold,Lateral,Knife,6,How would you hold a knife?
+Hold,MediumWrap,Knife,6,How would you hold a knife?
+Hold,Tripod,Knife,0,How would you hold a knife?
+Hold,Writing,Knife,7,How would you hold a knife?
+Hold,Lateral,Ladle,10,How would you hold a ladle?
+Hold,MediumWrap,Ladle,0,How would you hold a ladle?
+Hold,Tripod,Ladle,0,How would you hold a ladle?
+Hold,Writing,Ladle,10,How would you hold a ladle?
+Hold,Lateral,Lemon,0,How would you hold a lemon?
+Hold,MediumWrap,Lemon,8,How would you hold a lemon?
+Hold,Tripod,Lemon,10,How would you hold a lemon?
+Hold,Writing,Lemon,2,How would you hold a lemon?
+Hold,Lateral,Lollipop,1,How would you hold a lollipop?
+Hold,MediumWrap,Lollipop,5,How would you hold a lollipop?
+Hold,Tripod,Lollipop,0,How would you hold a lollipop?
+Hold,Writing,Lollipop,14,How would you hold a lollipop?
+Hold,Lateral,Marble,2,How would you hold a marble?
+Hold,MediumWrap,Marble,3,How would you hold a marble?
+Hold,Tripod,Marble,13,How would you hold a marble?
+Hold,Writing,Marble,2,How would you hold a marble?
+Hold,Lateral,Marker pen,1,How would you hold a marker pen?
+Hold,MediumWrap,Marker pen,2,How would you hold a marker pen?
+Hold,Tripod,Marker pen,2,How would you hold a marker pen?
+Hold,Writing,Marker pen,15,How would you hold a marker pen?
+Hold,Lateral,Mobile phone,14,How would you hold a mobile phone?
+Hold,MediumWrap,Mobile phone,2,How would you hold a mobile phone?
+Hold,Tripod,Mobile phone,1,How would you hold a mobile phone?
+Hold,Writing,Mobile phone,2,How would you hold a mobile phone?
+Hold,Lateral,Mousepad,17,How would you hold a mousepad?
+Hold,MediumWrap,Mousepad,0,How would you hold a mousepad?
+Hold,Tripod,Mousepad,0,How would you hold a mousepad?
+Hold,Writing,Mousepad,3,How would you hold a mousepad?
+Hold,Lateral,Mug,7,How would you hold a mug?
+Hold,MediumWrap,Mug,9,How would you hold a mug?
+Hold,Tripod,Mug,0,How would you hold a mug?
+Hold,Writing,Mug,4,How would you hold a mug?
+Hold,Lateral,Newspaper,16,How would you hold the newspaper?
+Hold,MediumWrap,Newspaper,1,How would you hold the newspaper?
+Hold,Tripod,Newspaper,1,How would you hold the newspaper?
+Hold,Writing,Newspaper,2,How would you hold the newspaper?
+Hold,Lateral,Notepad,16,How would you hold a notepad?
+Hold,MediumWrap,Notepad,2,How would you hold a notepad?
+Hold,Tripod,Notepad,1,How would you hold a notepad?
+Hold,Writing,Notepad,1,How would you hold a notepad?
+Hold,Lateral,Onion,2,How would you hold an onion?
+Hold,MediumWrap,Onion,10,How would you hold an onion?
+Hold,Tripod,Onion,4,How would you hold an onion?
+Hold,Writing,Onion,3,How would you hold an onion?
+Hold,Lateral,Paintbrush,0,How would you hold a paintbrush?
+Hold,MediumWrap,Paintbrush,0,How would you hold a paintbrush?
+Hold,Tripod,Paintbrush,0,How would you hold a paintbrush?
+Hold,Writing,Paintbrush,19,How would you hold a paintbrush?
+Hold,Lateral,Pan,15,How would you hold a pan?
+Hold,MediumWrap,Pan,4,How would you hold a pan?
+Hold,Tripod,Pan,0,How would you hold a pan?
+Hold,Writing,Pan,1,How would you hold a pan?
+Hold,Lateral,Peach,4,How would you hold a peach?
+Hold,MediumWrap,Peach,9,How would you hold a peach?
+Hold,Tripod,Peach,6,How would you hold a peach?
+Hold,Writing,Peach,1,How would you hold a peach?
+Hold,Lateral,Pear,0,How would you hold a pear?
+Hold,MediumWrap,Pear,12,How would you hold a pear?
+Hold,Tripod,Pear,6,How would you hold a pear?
+Hold,Writing,Pear,2,How would you hold a pear?
+Hold,Lateral,Pencil,1,How would you hold a pencil?
+Hold,MediumWrap,Pencil,0,How would you hold a pencil?
+Hold,Tripod,Pencil,0,How would you hold a pencil?
+Hold,Writing,Pencil,19,How would you hold a pencil?
+Hold,Lateral,Pill,2,How would you hold a pill?
+Hold,MediumWrap,Pill,2,How would you hold a pill?
+Hold,Tripod,Pill,12,How would you hold a pill?
+Hold,Writing,Pill,4,How would you hold a pill?
+Hold,Lateral,Pliers,3,How would you hold pliers?
+Hold,MediumWrap,Pliers,10,How would you hold pliers?
+Hold,Tripod,Pliers,4,How would you hold pliers?
+Hold,Writing,Pliers,3,How would you hold pliers?
+Hold,Lateral,Plate,17,How would you hold a plate?
+Hold,MediumWrap,Plate,0,How would you hold a plate?
+Hold,Tripod,Plate,2,How would you hold a plate?
+Hold,Writing,Plate,0,How would you hold a plate?
+Hold,Lateral,Playing card,17,How would you hold a playing card?
+Hold,MediumWrap,Playing card,1,How would you hold a playing card?
+Hold,Tripod,Playing card,0,How would you hold a playing card?
+Hold,Writing,Playing card,2,How would you hold a playing card?
+Hold,Lateral,Potato,3,How would you hold a potato?
+Hold,MediumWrap,Potato,11,How would you hold a potato?
+Hold,Tripod,Potato,5,How would you hold a potato?
+Hold,Writing,Potato,1,How would you hold a potato?
+Hold,Lateral,Potato chip,7,How would you hold a potato chip?
+Hold,MediumWrap,Potato chip,0,How would you hold a potato chip?
+Hold,Tripod,Potato chip,6,How would you hold a potato chip?
+Hold,Writing,Potato chip,7,How would you hold a potato chip?
+Hold,Lateral,Quill,2,How would you hold a quill?
+Hold,MediumWrap,Quill,0,How would you hold a quill?
+Hold,Tripod,Quill,1,How would you hold a quill?
+Hold,Writing,Quill,17,How would you hold a quill?
+Hold,Lateral,Remote control,14,How would you hold a remote control?
+Hold,MediumWrap,Remote control,4,How would you hold a remote control?
+Hold,Tripod,Remote control,1,How would you hold a remote control?
+Hold,Writing,Remote control,1,How would you hold a remote control?
+Hold,Lateral,Rubik's cube,1,How would you hold rubik's cube?
+Hold,MediumWrap,Rubik's cube,13,How would you hold rubik's cube?
+Hold,Tripod,Rubik's cube,6,How would you hold rubik's cube?
+Hold,Writing,Rubik's cube,0,How would you hold rubik's cube?
+Hold,Lateral,Scalpel,3,How would you hold a scalpel?
+Hold,MediumWrap,Scalpel,4,How would you hold a scalpel?
+Hold,Tripod,Scalpel,0,How would you hold a scalpel?
+Hold,Writing,Scalpel,13,How would you hold a scalpel?
+Hold,Lateral,Scissors,8,How would you hold scissors?
+Hold,MediumWrap,Scissors,0,How would you hold scissors?
+Hold,Tripod,Scissors,3,How would you hold scissors?
+Hold,Writing,Scissors,9,How would you hold scissors?
+Hold,Lateral,Screw,0,How would you hold a screw?
+Hold,MediumWrap,Screw,1,How would you hold a screw?
+Hold,Tripod,Screw,12,How would you hold a screw?
+Hold,Writing,Screw,7,How would you hold a screw?
+Hold,Lateral,Screwdriver,0,How would you hold a screwdriver?
+Hold,MediumWrap,Screwdriver,4,How would you hold a screwdriver?
+Hold,Tripod,Screwdriver,8,How would you hold a screwdriver?
+Hold,Writing,Screwdriver,8,How would you hold a screwdriver?
+Hold,Lateral,Sheet of paper,16,How would you hold a sheet of paper?
+Hold,MediumWrap,Sheet of paper,0,How would you hold a sheet of paper?
+Hold,Tripod,Sheet of paper,0,How would you hold a sheet of paper?
+Hold,Writing,Sheet of paper,4,How would you hold a sheet of paper?
+Hold,Lateral,Spatula,15,How would you hold a spatula?
+Hold,MediumWrap,Spatula,1,How would you hold a spatula?
+Hold,Tripod,Spatula,0,How would you hold a spatula?
+Hold,Writing,Spatula,4,How would you hold a spatula?
+Hold,Lateral,Sponge,6,How would you hold a sponge?
+Hold,MediumWrap,Sponge,4,How would you hold a sponge?
+Hold,Tripod,Sponge,8,How would you hold a sponge?
+Hold,Writing,Sponge,2,How would you hold a sponge?
+Hold,Lateral,Spoon,6,How would you hold a spoon?
+Hold,MediumWrap,Spoon,1,How would you hold a spoon?
+Hold,Tripod,Spoon,1,How would you hold a spoon?
+Hold,Writing,Spoon,11,How would you hold a spoon?
+Hold,Lateral,Strawberry,0,How would you hold a strawberry?
+Hold,MediumWrap,Strawberry,1,How would you hold a strawberry?
+Hold,Tripod,Strawberry,17,How would you hold a strawberry?
+Hold,Writing,Strawberry,2,How would you hold a strawberry?
+Hold,Lateral,Syringe,1,How would you hold a syringe?
+Hold,MediumWrap,Syringe,2,How would you hold a syringe?
+Hold,Tripod,Syringe,4,How would you hold a syringe?
+Hold,Writing,Syringe,13,How would you hold a syringe?
+Hold,Lateral,Tennis ball,1,How would you hold a tennis ball?
+Hold,MediumWrap,Tennis ball,8,How would you hold a tennis ball?
+Hold,Tripod,Tennis ball,11,How would you hold a tennis ball?
+Hold,Writing,Tennis ball,0,How would you hold a tennis ball?
+Hold,Lateral,Thermometer,3,How would you hold a thermometer?
+Hold,MediumWrap,Thermometer,0,How would you hold a thermometer?
+Hold,Tripod,Thermometer,0,How would you hold a thermometer?
+Hold,Writing,Thermometer,17,How would you hold a thermometer?
+Hold,Lateral,Toothbrush,1,How would you hold a toothbrush?
+Hold,MediumWrap,Toothbrush,3,How would you hold a toothbrush?
+Hold,Tripod,Toothbrush,1,How would you hold a toothbrush?
+Hold,Writing,Toothbrush,15,How would you hold a toothbrush?
+Hold,Lateral,Tube,2,How would you hold a tube?
+Hold,MediumWrap,Tube,8,How would you hold a tube?
+Hold,Tripod,Tube,1,How would you hold a tube?
+Hold,Writing,Tube,9,How would you hold a tube?
+Hold,Lateral,Tweezers,2,How would you hold tweezers?
+Hold,MediumWrap,Tweezers,0,How would you hold tweezers?
+Hold,Tripod,Tweezers,1,How would you hold tweezers?
+Hold,Writing,Tweezers,17,How would you hold tweezers?
+Hold,Lateral,Vase,1,How would you hold a vase?
+Hold,MediumWrap,Vase,18,How would you hold a vase?
+Hold,Tripod,Vase,1,How would you hold a vase?
+Hold,Writing,Vase,0,How would you hold a vase?
+Hold,Lateral,Wallet,17,How would you hold a wallet?
+Hold,MediumWrap,Wallet,0,How would you hold a wallet?
+Hold,Tripod,Wallet,2,How would you hold a wallet?
+Hold,Writing,Wallet,1,How would you hold a wallet?
+Hold,Lateral,Walnut,1,How would you hold a walnut?
+Hold,MediumWrap,Walnut,2,How would you hold a walnut?
+Hold,Tripod,Walnut,17,How would you hold a walnut?
+Hold,Writing,Walnut,0,How would you hold a walnut?
+Hold,Lateral,Wine bottle,0,How would you hold a wine bottle?
+Hold,MediumWrap,Wine bottle,18,How would you hold a wine bottle?
+Hold,Tripod,Wine bottle,1,How would you hold a wine bottle?
+Hold,Writing,Wine bottle,1,How would you hold a wine bottle?
+Hold,Lateral,Wine glas,1,How would you hold a wine glass?
+Hold,MediumWrap,Wine glas,17,How would you hold a wine glass?
+Hold,Tripod,Wine glas,0,How would you hold a wine glass?
+Hold,Writing,Wine glas,2,How would you hold a wine glass?
+Hold,Lateral,Chestnut,0,How would you hold a chestnut?
+Hold,MediumWrap,Chestnut,3,How would you hold a chestnut?
+Hold,Tripod,Chestnut,14,How would you hold a chestnut?
+Hold,Writing,Chestnut,3,How would you hold a chestnut?
+Hold,Lateral,Whisk,3,How would you hold a whisk?
+Hold,MediumWrap,Whisk,3,How would you hold a whisk?
+Hold,Tripod,Whisk,4,How would you hold a whisk?
+Hold,Writing,Whisk,10,How would you hold a whisk?
